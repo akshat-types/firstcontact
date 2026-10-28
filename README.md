@@ -4,7 +4,7 @@
 
 PRESSIQ is a football tactical intelligence prototype that replays a synthetic match, connects pressing actions to recoveries and shots, and explains the evidence for casual fans and analysts.
 
-[Deploy on Streamlit](https://share.streamlit.io/deploy?repository=akshat-types%2Ffirstcontact&branch=main&mainModule=app.py) · [Source](https://github.com/akshat-types/firstcontact)
+[Live dashboard](https://press-iq.streamlit.app/) · [Deploy your own copy](https://share.streamlit.io/deploy?repository=akshat-types%2Ffirstcontact&branch=main&mainModule=app.py) · [Source](https://github.com/akshat-types/firstcontact)
 
 > Hackathon MVP using fictional data and transparent scoring rules. The full dashboard works without Azure credentials. Microsoft Foundry is optional.
 
@@ -19,7 +19,13 @@ PRESSIQ is a football tactical intelligence prototype that replays a synthetic m
 - **Insight feed:** narratives and scores unlock only after their sequence completes.
 - **Export:** download completed tactical evidence.
 
-## Get a live dashboard link
+## Live dashboard
+
+**Open PRESSIQ: [press-iq.streamlit.app](https://press-iq.streamlit.app/)**
+
+The public demo runs from this repository with the bundled synthetic match. No Azure credentials or ngrok token are required.
+
+## Deploy your own copy
 
 GitHub stores the source. **Streamlit Community Cloud runs the Python dashboard** and provides a shareable `streamlit.app` URL. GitHub Pages cannot run this app.
 
@@ -38,7 +44,7 @@ GitHub stores the source. **Streamlit Community Cloud runs the Python dashboard*
 4. Optionally choose an available subdomain, then click **Deploy**.
 5. Verify the app, then copy its assigned URL into your repository's **About → Website** field and this README.
 
-The deployment link above opens setup; it does not claim the app is already deployed. Streamlit assigns the actual dashboard URL. The hosted app runs independently of Colab and ngrok, using bundled CSVs. Commits to the deployed branch update the app. An inactive Community Cloud app may sleep and wake when opened.
+The live dashboard link opens the published PRESSIQ app. The “Deploy your own copy” link opens deployment setup for a separate app; Streamlit assigns its URL. The hosted app runs independently of Colab and ngrok, using bundled CSVs. Commits to the deployed branch update the app. An inactive Community Cloud app may sleep and wake when opened.
 
 See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
 
