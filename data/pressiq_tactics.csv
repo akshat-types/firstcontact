@@ -1,0 +1,73 @@
+sequence_id,minute,team,press_x,counterpress_opportunity,quick_regain,high_regain,disrupted,press_escaped,duels_won,duels_contested,second_ball_win,second_ball_contested,shot_after_regain,outcome
+1,0.0,North City,55.7,0,0,0,1,0,1,1,0,0,0,Recovery without immediate shot
+2,1.3,East Borough,70.8,1,0,0,0,1,0,1,0,0,0,Press bypassed
+3,2.5,North City,60.8,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+4,3.8,East Borough,55.2,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+5,5.0,North City,82.8,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+6,6.3,East Borough,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+7,7.5,North City,80.0,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+8,8.8,East Borough,83.6,0,0,0,0,1,0,1,0,0,0,Press bypassed
+9,10.0,North City,59.7,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+10,11.3,East Borough,72.7,0,0,0,0,1,0,1,0,0,0,Press bypassed
+11,12.5,North City,73.6,0,0,0,0,0,0,0,0,0,0,Unsuccessful press
+12,13.8,East Borough,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+13,15.0,North City,66.5,0,0,0,1,0,1,1,0,0,0,Recovery without immediate shot
+14,16.3,East Borough,71.3,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+15,17.5,North City,59.0,0,0,0,0,0,0,0,0,0,0,Unsuccessful press
+16,18.8,East Borough,78.0,1,0,0,0,1,0,1,0,0,0,Press bypassed
+17,20.0,North City,80.0,0,0,0,0,0,0,0,0,0,0,Unsuccessful press
+18,21.3,East Borough,77.3,1,0,0,0,1,0,1,0,0,0,Press bypassed
+19,22.5,North City,69.7,0,0,0,0,1,0,1,0,0,0,Press bypassed
+20,23.8,East Borough,77.1,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+21,25.0,North City,65.5,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+22,26.3,East Borough,69.1,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+23,27.5,North City,70.3,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+24,28.8,East Borough,67.7,1,0,0,0,1,0,1,0,0,0,Press bypassed
+25,30.0,North City,72.1,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+26,31.3,East Borough,79.9,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+27,32.5,North City,70.6,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+28,33.8,East Borough,78.4,1,0,0,0,1,0,1,0,0,0,Press bypassed
+29,35.0,North City,56.6,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+30,36.3,East Borough,64.8,0,0,0,1,0,1,1,0,0,0,Recovery without immediate shot
+31,37.5,North City,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+32,38.8,East Borough,70.7,1,0,0,0,1,0,1,0,0,0,Press bypassed
+33,40.0,North City,66.6,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+34,41.3,East Borough,82.8,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+35,42.5,North City,61.3,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+36,43.8,East Borough,81.7,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+37,45.0,North City,57.0,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+38,46.3,East Borough,57.4,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+39,47.5,North City,61.9,0,0,0,0,1,0,1,0,0,0,Press bypassed
+40,48.8,East Borough,73.0,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+41,50.0,North City,65.1,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+42,51.3,East Borough,72.7,0,0,0,0,1,0,1,0,0,0,Press bypassed
+43,52.5,North City,58.0,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+44,53.8,East Borough,59.5,1,0,0,0,1,0,1,0,0,0,Press bypassed
+45,55.0,North City,62.3,0,0,0,1,0,1,1,0,0,0,Recovery without immediate shot
+46,56.3,East Borough,56.3,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+47,57.5,North City,67.8,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+48,58.8,East Borough,65.7,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+49,60.0,North City,61.1,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+50,61.3,East Borough,66.8,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+51,62.5,North City,78.5,0,0,0,0,0,0,0,0,0,0,Unsuccessful press
+52,63.8,East Borough,66.9,0,0,0,0,1,0,1,0,0,0,Press bypassed
+53,65.0,North City,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+54,66.3,East Borough,60.6,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+55,67.5,North City,79.5,1,0,0,0,1,0,1,0,0,0,Press bypassed
+56,68.8,East Borough,67.6,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+57,70.0,North City,60.5,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+58,71.3,East Borough,70.6,0,0,0,0,0,0,0,0,0,0,Unsuccessful press
+59,72.5,North City,82.5,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+60,73.8,East Borough,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
+61,75.0,North City,74.6,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+62,76.3,East Borough,79.2,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+63,77.5,North City,68.5,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+64,78.8,East Borough,63.2,0,0,0,0,1,0,1,0,0,0,Press bypassed
+65,80.0,North City,60.8,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+66,81.3,East Borough,71.7,0,0,0,1,0,0,0,0,0,0,Press disrupted buildup
+67,82.5,North City,74.0,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+68,83.8,East Borough,62.2,1,1,0,1,0,1,1,1,1,1,Attacking counterpress
+69,85.0,North City,82.6,0,0,1,1,0,1,1,0,0,0,Recovery without immediate shot
+70,86.3,East Borough,59.6,0,0,0,1,0,1,1,0,0,0,Recovery without immediate shot
+71,87.5,North City,77.6,1,1,1,1,0,1,1,1,1,1,Attacking counterpress
+72,88.8,East Borough,70.0,0,0,1,1,0,1,1,0,0,1,High regain leading to shot
